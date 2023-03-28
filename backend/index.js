@@ -119,4 +119,6 @@ function verifyToken(req,resp,next){
    
 }
 
-app.listen(5000);
+app.listen(5000,function(){
+    console.log('Express App running on port '+(5000));
+});

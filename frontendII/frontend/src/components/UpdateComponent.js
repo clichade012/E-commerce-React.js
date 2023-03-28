@@ -43,7 +43,7 @@ const UpdateProduct = ({onChange}) => {
             }
         })
         result = await result.json()
-        console.warn(result)
+       // console.warn(result)
         navigate('/')
     }
     return (
