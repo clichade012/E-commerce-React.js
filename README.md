@@ -1,1 +1,6 @@
-# E-commerceWebsite.github.io
+# E-commerce-React.js
+
+
+ 
+
+export default Counter;
